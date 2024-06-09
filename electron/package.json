@@ -1,0 +1,23 @@
+{
+  "name": "electron-example",
+  "version": "1.0.0",
+  "description": "Electron app example",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/sofi-alvarado/electron-app-example.git"
+  },
+  "author": "Sofia Alvarado",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sofi-alvarado/electron-app-example/issues"
+  },
+  "homepage": "https://github.com/sofi-alvarado/electron-app-example#readme",
+  "devDependencies": {
+    "electron": "^30.1.0"
+  }
+}
